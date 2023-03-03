@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+("https://images.template.net/wp-content/uploads/2017/04/Logo-Design1.jpg")
+
+</head>
+
+</html>
+
+.active {
+    border-bottom: 2px solid #1161ed;
+    background-color: rgba(25, 190, 240, 0.904);
+}
+.nonactive {
+    color: rgba(255, 255, 255, 0.37);
+    background-color: chocolate;
+}
